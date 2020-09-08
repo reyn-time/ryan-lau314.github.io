@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Problem 016: Power digit sum"
+title: "Problem 016: Power Digit Sum"
 date: 2020-09-02 20:56:07 +0100
 tags: euler
 ---
