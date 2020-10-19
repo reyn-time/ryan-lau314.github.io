@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Problem 021: Amicable numbers"
+title: "Problem 021: Amicable Numbers"
 date: 2020-10-19 21:04:00 +0100
 tags: euler
 ---
