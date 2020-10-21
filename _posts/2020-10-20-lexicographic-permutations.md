@@ -36,7 +36,7 @@ Swap the array values indexed at $i$ and $j$:
 Reverse the sublist from $i+1$ to the end:
 <pre>
 3 1 4 <span style="color:green;font-weight:bold">8</span> 0 2 5 9
-      i
+      i <----->
 </pre>
 ...and that's the next permutation.
 
