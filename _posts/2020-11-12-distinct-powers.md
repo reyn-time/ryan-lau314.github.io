@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Problem 029: Distinct Powers"
-date: 2020-11-12 19:39:23 +0100
+date: 2020-11-12 19:39:23 +0000
 tags: euler
 ---
 
