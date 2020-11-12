@@ -44,7 +44,7 @@ It would be useful to prove the following statement:
 
 Consider arbitrary $N$ with $n > 6$ digits.
 
-Let $N = \overline{d_0d_1 \cdots d_{n-1}}$, where $d_0, \cdots, d_{n-1}$ are the digits of the number $n$.
+Let $N = \overline{d_0d_1 \cdots d_{n-1}}$, where $d_0, \cdots, d_{n-1}$ are the digits of the number $N$.
 
 Since $N$ has $n$ digits, $N \geq 10^{n-1}$. 
 
