@@ -49,8 +49,11 @@ Let $N = \overline{d_0d_1 \cdots d_{n-1}}$, where $d_0, \cdots, d_{n-1}$ are the
 Since $N$ has $n$ digits, $N \geq 10^{n-1}$. 
 
 However, 
-\\\[d_0d_1 \cdots d_{n-1} \leq \overbrace{9 \cdot 9 \cdot\cdots\cdot 9}^n = 9^n \\\]
+\\\[d_0^5 + d_1^5 + \cdots + d_{n-1}^5 \leq \overbrace{9^5 + \cdots + 9^5}^n = 59049n \\\]
 
-For all $n > 6$, $9^n < 10^{n-1}$. Therefore $d_0d_1 \cdots d_{n-1} \not= N$.
+For all $n > 6$,
+\\\[d_0^5 + d_1^5 + \cdots + d_{n-1}^5 \leq 59049n < 10^{n-1} \leq N\\\]
+
+Therefore $d_0^5 + d_1^5 + \cdots + d_{n-1}^5 \not= N$.
 
 By the statement above, we could limit the search space to $[10, 10^6)$. 
