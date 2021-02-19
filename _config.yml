@@ -34,7 +34,7 @@ plugins:
 remote_theme: jekyll/minima@3cdd14dff1216f561c68329e0b7420c2dc9b796a
 
 minima:
-  skin: solarized-dark
+  skin: solarized
   social_links:
     twitter: ryanlau394
     github: ryan-lau314
@@ -42,7 +42,6 @@ minima:
 
 header_pages:
   - about.markdown
-  - index.html
 
 author:
   name: Ryan Lau
