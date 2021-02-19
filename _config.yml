@@ -39,6 +39,9 @@ minima:
     twitter: ryanlau394
     github: ryan-lau314
     facebook: ryan.lau2
+    gitlab:
+      - username: ryanlau394
+        instance: gitlab.com
 
 header_pages:
   - about.markdown
