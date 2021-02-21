@@ -47,7 +47,7 @@ header_pages:
   - about.markdown
 
 disqus:
-  shortname: my_disqus_shortname
+  shortname: programming-challenges
 
 google_analytics: UA-190290709-2
 
