@@ -46,6 +46,11 @@ minima:
 header_pages:
   - about.markdown
 
+disqus:
+  shortname: my_disqus_shortname
+
+google_analytics: UA-190290709-2
+
 author:
   name: Ryan Lau
 
