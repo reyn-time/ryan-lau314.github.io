@@ -37,7 +37,7 @@ From the last equation, we can deduce something very useful: $w$ is a triangle n
 
 In fact, it suffices if $8w + 1$ is a square number! Since $8w + 1$ must be an odd number, the square root of $8w + 1$ can only be odd. It follows that $\frac{1}{2}\left(\sqrt{8w + 1} - 1\right)$ can only a positive integer.
 
-With the help of the [`is_square` function](https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.primetest.is_square) from the `sympy` library, the code can then be written in a rather straightforward way:
+With the help of the [`is_square` function](https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.primetest.is_square) from the `sympy` library, the code can then be written in a rather straightforward way. For the more hardcore programmers, you can try to implement the `is_square` method yourself by computing the [integer square root](https://en.wikipedia.org/wiki/Integer_square_root) of the number.
 
 {% highlight python %}
 from sympy.ntheory.primetest import is_square
