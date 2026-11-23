@@ -21,9 +21,9 @@
 title: Programming Challenges
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A junior programmer trying his best to solve hard coding problems.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ryan-lau314.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  A software programmer trying his best to solve hard coding problems.
+baseurl: "/ryan-lau314.github.io" # the subpath of your site, e.g. /blog
+url: "https://reyn-time.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 paginate: 10
 
 # Build settings
@@ -32,6 +32,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: jekyll/minima@3cdd14dff1216f561c68329e0b7420c2dc9b796a
+
+
 
 minima:
   skin: solarized
